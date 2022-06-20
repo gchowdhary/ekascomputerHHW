@@ -1,0 +1,22 @@
+<b>
+<h1> to <h6>
+<!--comment-->
+<i>
+<u>
+<br>
+<hr>
+<sub>
+<sup>
+pg78
+
+Wireless technology provides the ability to communicate between two or more entities over distances without the use of wires or cables of any sort.
+
+
+The Different Types of Wireless Communication
+Satellite Communication. Satellite communication is a crucial form of wireless communication. ...
+Infrared Communication. ...
+Broadcast Radio. ...
+Microwave Communication. ...
+Wi-Fi. ...
+Mobile Communication Systems. ...
+Bluetooth Technology.
